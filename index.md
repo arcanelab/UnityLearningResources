@@ -1,5 +1,7 @@
 # Unity Resources
 
+## Official Tutorials
+
 * [Assets, Resources and AssetBundles](https://learn.unity.com/tutorial/assets-resources-and-assetbundles)
 
 ## Unite Talks
@@ -11,8 +13,8 @@
 - [Blog post](http://www.roboryantron.com/2017/10/unite-2017-game-architecture-with.html)
 - [Github page](https://github.com/roboryantron/Unite2017)
 
+---
+
 ## Official Documentation
 
 ## 3rd Party Blog Posts
-
-## Scriptable Objects
