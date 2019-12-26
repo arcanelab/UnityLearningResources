@@ -15,6 +15,10 @@
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VBA1QCoEAX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Bitbucket page](https://bitbucket.org/richardfine/scriptableobjectdemo/src/default/)
+
 ## Official Documentation
 
 ## 3rd Party Blog Posts
