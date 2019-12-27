@@ -3,6 +3,7 @@
 ## Official Tutorials
 
 * [Assets, Resources and AssetBundles](https://learn.unity.com/tutorial/assets-resources-and-assetbundles)
+* [Unity Addressable Asset system](https://docs.unity3d.com/Packages/com.unity.addressables@1.4/manual/index.html)
 
 ## Unite Talks
 
