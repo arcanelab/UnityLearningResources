@@ -4,6 +4,7 @@
 
 * [Assets, Resources and AssetBundles](https://learn.unity.com/tutorial/assets-resources-and-assetbundles)
 * [Unity Addressable Asset system](https://docs.unity3d.com/Packages/com.unity.addressables@1.4/manual/index.html)
+* [Memory Management in Unity](https://learn.unity.com/tutorial/memory-management-in-unity)
 
 ## Unite Talks
 
