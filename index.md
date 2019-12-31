@@ -24,6 +24,8 @@
 
 ## Official Documentation
 
+* [GPU Instancing](https://docs.unity3d.com/2019.3/Documentation/Manual/GPUInstancing.html)
+
 ## 3rd Party Blog Posts
 
 - [Step-by-Step Basic Tutorial for Creating an Asset Bundle: Laughing Panda](https://onegamefoundation.github.io/docs/asset-bundle-laughing-panda-tutorial.html)
