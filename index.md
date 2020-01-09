@@ -28,12 +28,16 @@
 
 - [Sample project on GitHub](https://github.com/Unity-Technologies/UIElementsUniteCPH2019RuntimeDemo)
 
+---
+
 ### (New) Input System
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hw3Gk5PoZ6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [Blog post](https://blogs.unity3d.com/2019/10/14/introducing-the-new-input-system/?utm_source=youtube&utm_medium=social&utm_campaign=engine_global_generalpromo_2019-10-14_input-system&utm_content=blog)
 - [Manual](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/manual/)
+
+---
 
 ## Official Documentation
 
