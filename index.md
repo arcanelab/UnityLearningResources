@@ -43,6 +43,7 @@
 
 * [GPU Instancing](https://docs.unity3d.com/2019.3/Documentation/Manual/GPUInstancing.html)
 * [Input System](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/manual/)
+* [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.9/manual/index.html)
 
 ## 3rd Party Blog Posts
 
